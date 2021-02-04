@@ -1,0 +1,4 @@
+Adjunto la versión 5 del ejemplo, esta versión una implementación sencilla del patrón Front Controller. Todavía tiene algunos aspectos a mejorar, como ser: utilizar campos Date persistentes, mejorar el procesamiento de excepciones y notificación de errores en la interface; de todas maneras ha evolucionado considerablemente desde su versión original y abarca los temas mas importantes que nos propusimos dar en clase.
+Espero con la próxima y última versión 6 cerrar estos puntos pendientes en el ejemplo.
+
+Saludos, y suerte con los exámenes.
